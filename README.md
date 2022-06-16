@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jordanmanu@live.com.au**
 
-- ⚡ Fun fact **I love to bake!**
+- ⚡ Fun fact **I was once in a Special K commercial!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
