@@ -5,8 +5,6 @@
 
 - 👯 I’m looking to collaborate on **Ruby/Rails, React and JavaScript projects**
 
-- 💬 Ask me about **OOP, TDD and Agile development**
-
 - ⚡ Fun fact **I was once in a Special K commercial!**
 
 <h3 align="left">Connect with me:</h3>
