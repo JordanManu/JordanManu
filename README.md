@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **OOP, TDD and Agile development**
 
-- 📫 How to reach me **jordanmanu@live.com.au**
-
 - ⚡ Fun fact **I was once in a Special K commercial!**
 
 <h3 align="left">Connect with me:</h3>
